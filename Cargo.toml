@@ -1,0 +1,12 @@
+[package]
+name = "platformer"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "*"
+
+# TODO: Repetindo o projeto antigo, pretendo fazer um parser de xml do 0.
+xml-rs = "*"
